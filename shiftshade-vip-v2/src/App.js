@@ -4,15 +4,24 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="header">
-        <h1 id='mainHeader'>Group 4 Present</h1>
-      </div>
       <div className="content">
         <h1>ShiftShade - Background Shifter</h1>
-        <button className="start-button">Start Now!</button>
+        <Button />
       </div>
     </div>
   );
 }
+
+function Button() {
+  function handleClick() {
+    window.location.href = 'https://www.google.com';
+  }
+  return (
+    <button className="start-button" onClick={handleClick}>
+      Start Now!
+    </button>
+  );
+}
+
 
 export default App;
