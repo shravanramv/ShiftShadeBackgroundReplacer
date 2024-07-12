@@ -2,7 +2,7 @@
   "name": "edit-image-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shravanramv.github.io/ShifShadeBackgroundReplacer",
+  "homepage": "https://shravanramv.github.io/ShiftShadeBackgroundReplacer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
