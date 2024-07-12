@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ShifShadeBackgroundReplacer/static/css/main.ed4d3e29.css",
-    "main.js": "/ShifShadeBackgroundReplacer/static/js/main.9b5f7aee.js",
+    "main.css": "/ShifShadeBackgroundReplacer/static/css/main.20459b86.css",
+    "main.js": "/ShifShadeBackgroundReplacer/static/js/main.959c6d12.js",
     "index.html": "/ShifShadeBackgroundReplacer/index.html",
-    "main.ed4d3e29.css.map": "/ShifShadeBackgroundReplacer/static/css/main.ed4d3e29.css.map",
-    "main.9b5f7aee.js.map": "/ShifShadeBackgroundReplacer/static/js/main.9b5f7aee.js.map"
+    "main.20459b86.css.map": "/ShifShadeBackgroundReplacer/static/css/main.20459b86.css.map",
+    "main.959c6d12.js.map": "/ShifShadeBackgroundReplacer/static/js/main.959c6d12.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed4d3e29.css",
-    "static/js/main.9b5f7aee.js"
+    "static/css/main.20459b86.css",
+    "static/js/main.959c6d12.js"
   ]
 }
