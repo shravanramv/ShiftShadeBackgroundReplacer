@@ -14,7 +14,7 @@ function App() {
 
 function Button() {
   function handleClick() {
-    window.location.href = 'https://www.google.com';
+    window.location.href = 'https://shravanramv.github.io/EditImagePage/';
   }
   return (
     <button className="start-button" onClick={handleClick}>
